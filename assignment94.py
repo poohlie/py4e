@@ -1,5 +1,5 @@
 filename = input("Enter file:")
-handle = open(filename)
+
 names = dict()
 
 for line in handle:
